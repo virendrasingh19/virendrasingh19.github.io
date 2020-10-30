@@ -1,6 +1,6 @@
 {
-    "name": "sample_web_app",
-    "short_name": "sample_web_app",
+    "name": "nuclei_credit_card_module",
+    "short_name": "nuclei_credit_card_module",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
